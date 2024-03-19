@@ -22,10 +22,13 @@
 - Image 1: GET Request
   - <img src="https://github.com/Andi-Cast/FirstSpringBootApplication/blob/main/ExampleScreenshots/GET_Example.png" height="auto" width="75%" >
 - Image 2: POST
-  <img src="" height="auto" width="50%" >
+  - <img src="https://github.com/Andi-Cast/FirstSpringBootApplication/blob/main/ExampleScreenshots/POST_Example.png" height="auto" width="75%" >
+  - <img src="https://github.com/Andi-Cast/FirstSpringBootApplication/blob/main/ExampleScreenshots/POST_GET_Example.png" height="auto" width="75%" >  
 - Image 3: DELETE
-  <img src="" height="auto" width="50%" >
+  - <img src="https://github.com/Andi-Cast/FirstSpringBootApplication/blob/main/ExampleScreenshots/DELETE_Example.png" height="auto" width="75%" >
+  - <img src="https://github.com/Andi-Cast/FirstSpringBootApplication/blob/main/ExampleScreenshots/DELETE_GET_Example.png" height="auto" width="75%" >
 - Image 4: PUT
-  <img src="" height="auto" width="50%" >
------
+  - <img src="https://github.com/Andi-Cast/FirstSpringBootApplication/blob/main/ExampleScreenshots/PUT_Example.png" height="auto" width="75%" >
+  - <img src="https://github.com/Andi-Cast/FirstSpringBootApplication/blob/main/ExampleScreenshots/PUT_GET_Example.png" height="auto" width="75%" >
+  -----
 
