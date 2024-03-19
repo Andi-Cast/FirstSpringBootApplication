@@ -20,7 +20,7 @@
 ## **Examples Images**
 ###### Below I have included images of the http requests and their results.
 - Image 1: GET Request
-  <img src="https://github.com/Andi-Cast/FirstSpringBootApplication/blob/main/ExampleScreenshots/GET_Example.png" height="auto" width="50%" >
+  - <img src="https://github.com/Andi-Cast/FirstSpringBootApplication/blob/main/ExampleScreenshots/GET_Example.png" height="auto" width="50%" >
 - Image 2: POST
   <img src="" height="auto" width="50%" >
 - Image 3: DELETE
